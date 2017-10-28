@@ -1,5 +1,5 @@
 # Export User Emails
-Get all user email.
+Lightweight plugin for get all user email in a list from WordPress.
 
 ### Export User Emails by [https://www.pickplugins.com](https://www.pickplugins.com/?ref=wordpress.org)
 
