@@ -6,3 +6,12 @@ Lightweight plugin for get all user email in a list from WordPress.
 # Shortcodes
 
 ``[export_user_emails roles="subscriber,author"]``
+
+**default role:** subscriber
+
+**WordPress default roles:**
+
+* administrator
+* editor
+* author
+* subscriber
